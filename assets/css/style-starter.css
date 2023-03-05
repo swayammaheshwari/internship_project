@@ -1,4 +1,5 @@
 /*--
+#e82d2d
 Author: W3layouts
 Author URL: http://w3layouts.com
 --*/
@@ -11,14 +12,14 @@ Author URL: http://w3layouts.com
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-    --bs-blue: #0d6efd;
-    --bs-indigo: #6610f2;
-    --bs-purple: #6f42c1 --bs-pink: #d63384;
-    --bs-red: #dc3545;
-    --bs-orange: #fd7e14;
-    --bs-yellow: #ffc107;
-    --bs-green: #198754;
-    --bs-teal: #20c997;
+    --bs-blue: #e82d2d;
+    --bs-indigo: #e82d2d;
+    --bs-purple: #e82d2d --bs-pink: #e82d2d;
+    --bs-red: #e82d2d;
+    --bs-orange: #e82d2d;
+    --bs-yellow: #e82d2d;
+    --bs-green: #e82d2d;
+    --bs-teal: #e82d2d;
     --bs-cyan: #0dcaf0;
     --bs-white: #fff;
     --bs-gray: #6c757d;
